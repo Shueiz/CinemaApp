@@ -1,6 +1,6 @@
-# Nome do Projeto
+# CinemaApp
 
-CinemaApp
+Localize o cinema e filme de sua escolha onde estiver
 
 ## Visão Geral
 
